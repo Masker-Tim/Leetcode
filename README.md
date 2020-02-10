@@ -5,6 +5,7 @@
 
 | 題目                                                                                                                       | 我的時間複雜度           | 最佳的時間複雜度         | 程式語言   | 日期       |
 |:-------------------------------------------------------------------------------------------------------------------------- |:------------------------ |:------------------------ |:---------- |:---------- |
+| [Binary Tree Preorder](https://github.com/Masker-Tim/Leetcode/blob/master/java/BT_preorder.java)                           | O(N)                     | O(N)                     | Java       | 2020/02/10 |
 | [Balanced Binary Tree](https://github.com/Masker-Tim/Leetcode/blob/master/java/Balanced_BT.java)                           | O(N)                     | O(N)                     | Java       | 2020/02/10 |
 | [Min Depth of BT](https://github.com/Masker-Tim/Leetcode/blob/master/java/MinDepth_BT.java)                                | O(N)                     | O(N)                     | Java       | 2020/02/10 |
 | [BT Maximum Path Sum](https://github.com/Masker-Tim/Leetcode/blob/master/python/BT_maxpath.py)                             | O(N)                     | O(N)                     | Python     | 2020/02/09 |
